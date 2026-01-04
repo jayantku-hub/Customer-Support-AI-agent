@@ -1,0 +1,16 @@
+ai-customer-support-agent-n8n/
+│
+├── workflows/
+│   ├── customer-support-ai-agent.json
+│   └── customer-support-vector-db.json
+│
+├── docs/
+│   ├── workflow-overview.md
+│   ├── vector-db-setup.md
+│   └── troubleshooting.md
+│
+├── assets/
+│   └── architecture.png   (optional screenshots)
+│
+├── README.md
+└── .gitignore
