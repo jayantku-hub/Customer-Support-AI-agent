@@ -1,0 +1,13 @@
+🔹 Brief Steps (Simple Explanation)
+
+New email arrives in Gmail and triggers the workflow
+
+AI checks if the email is a customer support request
+
+Support emails are routed to a dedicated AI agent
+
+AI searches policies from Pinecone vector database
+
+AI drafts a reply using verified information
+
+Draft is saved in Gmail for human review and send
